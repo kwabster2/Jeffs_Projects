@@ -1,2 +1,2 @@
-# Jeffs_Projetcts
+# Jeffs_Projects
 My SQL Exploration and Report Projects 
